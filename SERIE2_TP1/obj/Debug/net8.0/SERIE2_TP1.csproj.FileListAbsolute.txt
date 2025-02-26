@@ -1,0 +1,15 @@
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.AssemblyInfoInputs.cache
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.AssemblyInfo.cs
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.csproj.CoreCompileInputs.cache
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.sourcelink.json
+C:\csharp_tp\SERIE2_TP1\bin\Debug\net8.0\SERIE2_TP1.exe
+C:\csharp_tp\SERIE2_TP1\bin\Debug\net8.0\SERIE2_TP1.deps.json
+C:\csharp_tp\SERIE2_TP1\bin\Debug\net8.0\SERIE2_TP1.runtimeconfig.json
+C:\csharp_tp\SERIE2_TP1\bin\Debug\net8.0\SERIE2_TP1.dll
+C:\csharp_tp\SERIE2_TP1\bin\Debug\net8.0\SERIE2_TP1.pdb
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.dll
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\refint\SERIE2_TP1.dll
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.pdb
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\SERIE2_TP1.genruntimeconfig.cache
+C:\csharp_tp\SERIE2_TP1\obj\Debug\net8.0\ref\SERIE2_TP1.dll
