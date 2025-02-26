@@ -1,0 +1,15 @@
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\bin\Debug\net8.0\SERIE1_TP2_ConsommationCafe.exe
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\bin\Debug\net8.0\SERIE1_TP2_ConsommationCafe.deps.json
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\bin\Debug\net8.0\SERIE1_TP2_ConsommationCafe.runtimeconfig.json
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\bin\Debug\net8.0\SERIE1_TP2_ConsommationCafe.dll
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\bin\Debug\net8.0\SERIE1_TP2_ConsommationCafe.pdb
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.AssemblyInfoInputs.cache
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.AssemblyInfo.cs
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.csproj.CoreCompileInputs.cache
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.sourcelink.json
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.dll
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\refint\SERIE1_TP2_ConsommationCafe.dll
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.pdb
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\SERIE1_TP2_ConsommationCafe.genruntimeconfig.cache
+C:\csharp_tp\SERIE1_TP2_ConsommationCafe\obj\Debug\net8.0\ref\SERIE1_TP2_ConsommationCafe.dll
