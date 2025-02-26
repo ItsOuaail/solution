@@ -10,8 +10,8 @@ internal class Program
 
         // Ajout des programmeurs
         projet.AjouterProgrammeur(new Programmer(1, "EL AIDI IDRISSI", "Achraf", 205));
-        projet.AjouterProgrammeur(new Programmer(2, "EL GARTI", "Yassine", 566));
-        projet.AjouterProgrammeur(new Programmer(3, "EL AOUAD", "Wael", 123));
+        projet.AjouterProgrammeur(new Programmer(2, "ECHCHRIKI", "IMAD", 566));
+        projet.AjouterProgrammeur(new Programmer(3, "EL AOUAD", "Ouaail", 123));
 
         Console.WriteLine("Liste des programmeurs :");
         projet.AfficherProgrammeurs();

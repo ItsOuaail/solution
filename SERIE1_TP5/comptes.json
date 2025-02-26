@@ -1,0 +1,23 @@
+[
+    {
+      "Numero": 123,
+      "NomClient": "Ghailani",
+      "PrenomClient": "Mohamed",
+      "Solde": 2250.00,
+      "Historique": [
+        "+3500 Dhs | Nouveau solde: 3500 Dhs",
+        "+1950 Dhs | Nouveau solde: 5450 Dhs",
+        "-2000 Dhs | Nouveau solde: 3450 Dhs"
+      ]
+    },
+    {
+      "Numero": 456,
+      "NomClient": "Alami",
+      "PrenomClient": "Amine",
+      "Solde": 1200.00,
+      "Historique": [
+        "+1200 Dhs | Nouveau solde: 1200 Dhs"
+      ]
+    }
+  ]
+  
