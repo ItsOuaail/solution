@@ -1,0 +1,15 @@
+C:\csharp_tp\GestionRH\bin\Debug\net8.0\GestionRH.exe
+C:\csharp_tp\GestionRH\bin\Debug\net8.0\GestionRH.deps.json
+C:\csharp_tp\GestionRH\bin\Debug\net8.0\GestionRH.runtimeconfig.json
+C:\csharp_tp\GestionRH\bin\Debug\net8.0\GestionRH.dll
+C:\csharp_tp\GestionRH\bin\Debug\net8.0\GestionRH.pdb
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.AssemblyInfoInputs.cache
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.AssemblyInfo.cs
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.csproj.CoreCompileInputs.cache
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.sourcelink.json
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.dll
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\refint\GestionRH.dll
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.pdb
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\GestionRH.genruntimeconfig.cache
+C:\csharp_tp\GestionRH\obj\Debug\net8.0\ref\GestionRH.dll

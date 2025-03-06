@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 namespace GestionRH.Models
 {
-    public class Enseignant : Personne
+    public class Enseignant : Personnel
     {
         public string Grade { get; set; }
         public int VolumeHoraire { get; set; }
         private Dictionary<string, Groupe> Groupes { get; set; }
-        public Enseignant(string nom, string prenom, string grade, int volumeHoraire) : base(nom, prenom)
+        public Enseignant(string code, string nom, string prenom, string bureau, string grade, int volumeHoraire) : base(code, nom, prenom, bureau)
         {
             Grade = grade;
             VolumeHoraire = volumeHoraire;
@@ -15,7 +15,7 @@ namespace GestionRH.Models
         }
         public void AjouterGroupe(Groupe groupe)
         {
-            Groupes[groupe.Nom] = groupe
+            Groupes[groupe.Nom] = groupe;
         }
 
         public override double CalculerSalaire()

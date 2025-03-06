@@ -1,4 +1,4 @@
-namespace GestRH.Models
+namespace GestionRH.Models
 {
     public abstract class Personne
     {
@@ -11,6 +11,7 @@ namespace GestRH.Models
             this.Nom = nom;
             this.Prenom = prenom;
         }
+        
         
             }
 }

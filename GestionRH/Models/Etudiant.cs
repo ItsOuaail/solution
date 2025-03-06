@@ -1,6 +1,6 @@
 namespace GestionRH.Models
 {
-    public class Etudiant : Personne
+    public class Etudiant : Personne  
     {
         public string Niveau { get; set; }
         public double MoyenneAnnuelle { get; set;}

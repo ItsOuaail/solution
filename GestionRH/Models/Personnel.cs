@@ -9,5 +9,6 @@ namespace GestionRH.Models
         }
 
         public abstract double CalculerSalaire();
+        
     }
 }

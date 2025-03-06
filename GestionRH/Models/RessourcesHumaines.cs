@@ -6,15 +6,19 @@ namespace GestionRH.Models
 {
     public class RessourcesHumaines : IRessourcesHumaines
     {
+       
         private List<Personnel> listGRH = new List<Personnel>();
+
+        
+
         public void AjouterPersonnel(Personnel p)
         {
-            listeGRH.Add(p);
+            listGRH.Add(p);
         }
 
         public void AfficherEnseignants()
         {
-            foreach (var p in listeGRH.OfType<Enseignant>())
+            foreach (var p in listGRH.OfType<Enseignant>())
             {
                 p.AfficherEnseignant();
             }
